@@ -1,0 +1,28 @@
+{
+  "name": "nanotimer",
+  "version": "0.0.0",
+  "description": "Precise timer for functions, asynchronous functions, and promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimothyGu/nanotimer.git"
+  },
+  "keywords": [
+    "nanoseconds",
+    "timer"
+  ],
+  "author": "Timothy Gu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TimothyGu/nanotimer/issues"
+  },
+  "homepage": "https://github.com/TimothyGu/nanotimer#readme",
+  "devDependencies": {
+    "bluebird": "^2.9.25",
+    "testit": "^2.0.2",
+    "thread-sleep": "^1.0.3"
+  }
+}
